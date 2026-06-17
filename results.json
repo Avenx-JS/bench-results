@@ -1,0 +1,26 @@
+[
+  {
+    "file": "component-parser.bench.js",
+    "name": "ComponentParser",
+    "totalTime": 233.27,
+    "avgTime": 0.2333,
+    "ops": 4287,
+    "timestamp": "2026-06-15T14:40:23.908Z"
+  },
+  {
+    "file": "runtime-render.bench.js",
+    "name": "AvenxComponent.render()",
+    "totalTime": 211.83,
+    "avgTime": 0.0212,
+    "ops": 47207,
+    "timestamp": "2026-06-15T14:40:24.216Z"
+  },
+  {
+    "file": "style-processor.bench.js",
+    "name": "StyleProcessor",
+    "totalTime": 131.7,
+    "avgTime": 0.0263,
+    "ops": 37964,
+    "timestamp": "2026-06-15T14:40:24.440Z"
+  }
+]
