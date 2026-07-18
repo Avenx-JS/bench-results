@@ -2,25 +2,73 @@
   {
     "file": "component-parser.bench.js",
     "name": "ComponentParser",
-    "totalTime": 233.27,
-    "avgTime": 0.2333,
-    "ops": 4287,
-    "timestamp": "2026-06-15T14:40:23.908Z"
+    "totalTime": 175.74,
+    "avgTime": 0.1757,
+    "ops": 5690,
+    "timestamp": "2026-07-18T08:33:23.781Z"
+  },
+  {
+    "file": "dom-patching.bench.js",
+    "name": "DOMPatching",
+    "totalTime": 7.64,
+    "avgTime": 0.0008,
+    "ops": 1309315,
+    "timestamp": "2026-07-18T08:33:23.991Z"
+  },
+  {
+    "file": "reactivity-lookup.bench.js",
+    "name": "reactivity-lookup.bench.js",
+    "totalTime": 0,
+    "avgTime": 6.3999,
+    "ops": 0,
+    "timestamp": "2026-07-18T08:33:26.001Z"
+  },
+  {
+    "file": "reactivity.bench.js",
+    "name": "Reactivity",
+    "totalTime": 132.62,
+    "avgTime": 0.0027,
+    "ops": 377025,
+    "timestamp": "2026-07-18T08:33:26.148Z"
+  },
+  {
+    "file": "router.bench.js",
+    "name": "Router",
+    "totalTime": 3143.35,
+    "avgTime": 0.0629,
+    "ops": 15907,
+    "timestamp": "2026-07-18T08:33:26.511Z"
   },
   {
     "file": "runtime-render.bench.js",
     "name": "AvenxComponent.render()",
-    "totalTime": 211.83,
-    "avgTime": 0.0212,
-    "ops": 47207,
-    "timestamp": "2026-06-15T14:40:24.216Z"
+    "totalTime": 101.04,
+    "avgTime": 0.0101,
+    "ops": 98972,
+    "timestamp": "2026-07-18T08:33:26.650Z"
+  },
+  {
+    "file": "security.bench.js",
+    "name": "Security",
+    "totalTime": 267.28,
+    "avgTime": 0.0084,
+    "ops": 119726,
+    "timestamp": "2026-07-18T08:33:27.097Z"
   },
   {
     "file": "style-processor.bench.js",
     "name": "StyleProcessor",
-    "totalTime": 131.7,
-    "avgTime": 0.0263,
-    "ops": 37964,
-    "timestamp": "2026-06-15T14:40:24.440Z"
+    "totalTime": 68.96,
+    "avgTime": 0.0138,
+    "ops": 72509,
+    "timestamp": "2026-07-18T08:33:27.204Z"
+  },
+  {
+    "file": "virtual-list.bench.js",
+    "name": "VirtualList",
+    "totalTime": 699.01,
+    "avgTime": 1.3952,
+    "ops": 717,
+    "timestamp": "2026-07-18T08:33:28.059Z"
   }
 ]
