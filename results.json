@@ -2,26 +2,26 @@
   {
     "file": "atlas-build.bench.js",
     "name": "Atlas Build",
-    "totalTime": 510.46,
-    "avgTime": 255.23,
+    "totalTime": 506.69,
+    "avgTime": 253.35,
     "ops": 4,
-    "timestamp": "2026-10-03T14:35:26.094Z"
+    "timestamp": "2026-10-10T15:46:20.320Z"
   },
   {
     "file": "component-parser.bench.js",
     "name": "ComponentParser",
-    "totalTime": 850.78,
-    "avgTime": 0.8508,
+    "totalTime": 851.16,
+    "avgTime": 0.8512,
     "ops": 1175,
-    "timestamp": "2026-10-03T14:35:27.232Z"
+    "timestamp": "2026-10-10T15:46:21.442Z"
   },
   {
     "file": "dom-patching.bench.js",
     "name": "DOMPatching",
-    "totalTime": 4952.9,
-    "avgTime": 0.4953,
-    "ops": 2019,
-    "timestamp": "2026-10-03T14:35:32.641Z"
+    "totalTime": 6240.62,
+    "avgTime": 0.6241,
+    "ops": 1602,
+    "timestamp": "2026-10-10T15:46:28.303Z"
   },
   {
     "file": "event-delegation.bench.js",
@@ -29,126 +29,126 @@
     "totalTime": 0,
     "avgTime": 0,
     "ops": 0,
-    "timestamp": "2026-10-03T14:35:32.951Z"
+    "timestamp": "2026-10-10T15:46:28.731Z"
   },
   {
     "file": "incremental-rebuild.bench.js",
     "name": "Incremental Rebuild",
-    "totalTime": 274.1,
-    "avgTime": 137.05,
+    "totalTime": 288.25,
+    "avgTime": 144.12,
     "ops": 7,
-    "timestamp": "2026-10-03T14:35:37.206Z"
+    "timestamp": "2026-10-10T15:46:32.655Z"
   },
   {
     "file": "list-rendering.bench.js",
     "name": "list-rendering",
-    "totalTime": 96.73,
-    "avgTime": 5.3737,
-    "ops": 186,
-    "timestamp": "2026-10-03T14:35:39.884Z"
+    "totalTime": 117.31,
+    "avgTime": 6.5174,
+    "ops": 153,
+    "timestamp": "2026-10-10T15:46:35.909Z"
   },
   {
     "file": "lru_cache_memory.bench.js",
     "name": "LruCache Memory",
-    "totalTime": 25.31,
-    "avgTime": 0.0025,
-    "ops": 395121,
-    "timestamp": "2026-10-03T14:35:39.966Z"
+    "totalTime": 27.31,
+    "avgTime": 0.0027,
+    "ops": 366215,
+    "timestamp": "2026-10-10T15:46:35.992Z"
   },
   {
     "file": "reactivity-lookup.bench.js",
     "name": "reactivity-lookup.bench.js",
     "totalTime": 0,
-    "avgTime": 11.7361,
+    "avgTime": 11.2483,
     "ops": 0,
-    "timestamp": "2026-10-03T14:35:44.278Z"
+    "timestamp": "2026-10-10T15:46:40.319Z"
   },
   {
     "file": "reactivity.bench.js",
     "name": "Reactivity",
-    "totalTime": 321.96,
-    "avgTime": 0.0064,
-    "ops": 155298,
-    "timestamp": "2026-10-03T14:35:44.541Z"
+    "totalTime": 400.71,
+    "avgTime": 0.008,
+    "ops": 124778,
+    "timestamp": "2026-10-10T15:46:40.619Z"
   },
   {
     "file": "render-paths.bench.js",
     "name": "render-paths",
-    "totalTime": 36.83,
+    "totalTime": 39.15,
     "avgTime": 0.0177,
-    "ops": 56616,
-    "timestamp": "2026-10-03T14:35:48.309Z"
+    "ops": 56551,
+    "timestamp": "2026-10-10T15:46:44.853Z"
   },
   {
     "file": "render-phases.bench.js",
     "name": "render-phases",
-    "totalTime": 15.77,
-    "avgTime": 0.0146,
-    "ops": 68724,
-    "timestamp": "2026-10-03T14:35:50.622Z"
+    "totalTime": 18.85,
+    "avgTime": 0.0228,
+    "ops": 43799,
+    "timestamp": "2026-10-10T15:46:47.591Z"
   },
   {
     "file": "render-scenarios.bench.js",
     "name": "render-scenarios",
-    "totalTime": 55.54,
-    "avgTime": 0.026,
-    "ops": 38535,
-    "timestamp": "2026-10-03T14:35:53.049Z"
+    "totalTime": 69.8,
+    "avgTime": 0.0278,
+    "ops": 35978,
+    "timestamp": "2026-10-10T15:46:50.319Z"
   },
   {
     "file": "rewind-overhead.bench.js",
     "name": "Rewind Overhead",
-    "totalTime": 352.18,
-    "avgTime": 0.00117,
-    "ops": 854576,
-    "timestamp": "2026-10-03T14:35:53.605Z"
+    "totalTime": 429.95,
+    "avgTime": 0.001431,
+    "ops": 698898,
+    "timestamp": "2026-10-10T15:46:50.988Z"
   },
   {
     "file": "router.bench.js",
     "name": "Router",
-    "totalTime": 6491.91,
-    "avgTime": 0.1298,
-    "ops": 7702,
-    "timestamp": "2026-10-03T14:35:54.333Z"
+    "totalTime": 8065.61,
+    "avgTime": 0.1613,
+    "ops": 6199,
+    "timestamp": "2026-10-10T15:46:51.891Z"
   },
   {
     "file": "security.bench.js",
     "name": "Security",
-    "totalTime": 514.69,
-    "avgTime": 0.0161,
-    "ops": 62174,
-    "timestamp": "2026-10-03T14:35:55.123Z"
+    "totalTime": 641.23,
+    "avgTime": 0.02,
+    "ops": 49904,
+    "timestamp": "2026-10-10T15:46:52.881Z"
   },
   {
     "file": "style-processor.bench.js",
     "name": "StyleProcessor",
-    "totalTime": 207.76,
-    "avgTime": 0.0416,
-    "ops": 24067,
-    "timestamp": "2026-10-03T14:35:55.410Z"
+    "totalTime": 501.15,
+    "avgTime": 0.1002,
+    "ops": 9977,
+    "timestamp": "2026-10-10T15:46:53.491Z"
   },
   {
     "file": "trace-overhead.bench.js",
     "name": "Trace Overhead",
-    "totalTime": 449.62,
-    "avgTime": 0.001219,
-    "ops": 820499,
-    "timestamp": "2026-10-03T14:35:56.050Z"
+    "totalTime": 510.43,
+    "avgTime": 0.001427,
+    "ops": 701006,
+    "timestamp": "2026-10-10T15:46:54.222Z"
   },
   {
     "file": "update-scaling.bench.js",
     "name": "update-scaling",
-    "totalTime": 3014.5,
-    "avgTime": 58.3922,
-    "ops": 9,
-    "timestamp": "2026-10-03T14:35:59.578Z"
+    "totalTime": 3401.57,
+    "avgTime": 65.5971,
+    "ops": 8,
+    "timestamp": "2026-10-10T15:46:58.264Z"
   },
   {
     "file": "virtual-list.bench.js",
     "name": "VirtualList",
-    "totalTime": 32.5,
-    "avgTime": 0.0649,
-    "ops": 15417,
-    "timestamp": "2026-10-03T14:35:59.872Z"
+    "totalTime": 38.63,
+    "avgTime": 0.0771,
+    "ops": 12968,
+    "timestamp": "2026-10-10T15:46:58.646Z"
   }
 ]
